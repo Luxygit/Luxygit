@@ -22,7 +22,7 @@ I just graduated from the **MigraCode Barcelona School**, this is a school focus
 
 After finishing the Full Stack program, I've already started preparing myself for what I draws more my attention in this field, which is related to the **Front-End and UX/UI** of developing web applications.
 
-At the moment, I'm following the **Google UX Design Professional Certificate** and the **Front End Development Libraries Certification**.
+At the moment, I'm following the **Google UX Design Professional Certificate** on Coursera and the **Front End Development Libraries Certification** thanks to FreeCodeCamp.org.
 
 I have also studied **Psychology** at the **University of Lima** (Peru).
 
