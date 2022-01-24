@@ -30,6 +30,8 @@ I have also studied **Psychology** at the **University of Lima** (Peru).
 <!--
 ### Certificates
 -->
+As part of this Full Stack certificate, I worked on different projects involving Responsive Design, Wireframing, SCRUM (Agile) Methodologies and Version Control.
+
 ### Languages & Tools: 
 
 ![](https://img.shields.io/badge/OS-Windows/Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
