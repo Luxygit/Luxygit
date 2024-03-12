@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> <a href="https://luxygit.github.io/diego_vr_portfolio">⚡My Portfolio⚡ </a><a href="https://github.com/Luxygit/Luxygit/raw/main/Diego%20Vargas%20ENG%20CV.pdf">⚡My CV⚡ </a> 
+## Hi, I'm Diego <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"> <a href="https://luxygit.github.io/diego_vr_portfolio">⚡My Portfolio⚡ </a><a href="https://github.com/Luxygit/Luxygit/raw/main/Diego%20Vargas%20Eng%20CV.pdf">⚡My CV⚡ </a> 
 
 
 # I'm **Full Stack Web Developer**!
