@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I just graduated from the **MigraCode Barcelona School**, this is a school focused on people who migrated to Europe. such as refugees, and helps them by providing them with free education thus helping them get a job and join the tech sector.
 
-After finishing the Full Stack program, I've already started preparing myself for what I draws more my attention in this field, which is related to the **Front-End and UX/UI** of developing web applications.
+After finishing the Full Stack program, I've already started preparing myself for what draws my attention most in this field, which is related to the **Front-End and UX/UI** of developing web applications.
 
 At the moment, I'm following the **Google UX Design Professional Certificate** on Coursera and the **Front End Development Libraries Certification** thanks to FreeCodeCamp.org.
 
